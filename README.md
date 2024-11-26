@@ -1,5 +1,5 @@
 # Python_Data_cleaning_CustomerCall_list_Project
-<b>>Description: </b>
+<b>Description: </b>
 This project focuses on cleaning and preparing a customer call list dataset. The raw data contained issues such as missing values, inconsistent formats, and duplicates, which were systematically addressed to ensure the dataset is accurate, complete, and ready for operational use.
 
 The notebook demonstrates essential data cleaning techniques using Python and pandas, showcasing how raw data can be transformed into a reliable resource for business or analytical purposes.
